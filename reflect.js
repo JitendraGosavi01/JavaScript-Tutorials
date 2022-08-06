@@ -3,7 +3,7 @@
  * Reflect is not a function not it is a constructible. it is only job is to provide static methods for reflections
  *
  * These methods can be divided into two categories
- *  > Introspeciton = methods which are non-destructive methods
+ *  > Introspection = methods which are non-destructive methods
  *
  *  > Modification = methods which are destructive since they mutate the object or its behavior.
  */
